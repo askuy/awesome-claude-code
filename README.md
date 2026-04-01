@@ -1,14 +1,12 @@
 # awesome-claude-code
 ## 源码
-* https://github.com/instructkr/claude-code
-* https://github.com/ChinaSiro/claude-code-sourcemap
-* 源码解析 https://github.com/pengchengneo/Claude-Code
-* 源码解读 https://github.com/sanbuphy/claude-code-source-code
-* https://github.com/oboard/claude-code-rev
-* https://github.com/Clearzero22/Claude-Code-rev
-* https://github.com/sanbuphy/claude-code-source-code
-* 
-
+- [instructkr/claude-code](https://github.com/instructkr/claude-code) — 源码还原
+- [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) — sourcemap 提取
+- [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code) — 源码解析
+- [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) — 源码解读
+- [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+- [Clearzero22/Claude-Code-rev](https://github.com/Clearzero22/Claude-Code-rev) — 逆向工程
+- 
 ## 手柄声控Claude code
 * https://github.com/cch123/claude-controller
 
