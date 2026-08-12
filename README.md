@@ -1,3 +1,5 @@
+
+
 # awesome-reference
 
 个人整理的 AI 工程与大模型参考资料库，当前主要包含两类内容：
@@ -19,7 +21,7 @@
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) — sourcemap 提取
 - [pengchengneo/Claude-Code](https://github.com/pengchengneo/Claude-Code) — 源码解析
 - [sanbuphy/claude-code-source-code](https://github.com/sanbuphy/claude-code-source-code) — 源码解读
-- [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)
+- [oboard/claude-code-rev](https://github.com/oboard/claude-code-rev) — 逆向工程
 - [Clearzero22/Claude-Code-rev](https://github.com/Clearzero22/Claude-Code-rev) — 逆向工程
 - [cch123/claude-controller](https://github.com/cch123/claude-controller) — 手柄声控 Claude Code
 
